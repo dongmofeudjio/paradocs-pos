@@ -1,0 +1,1556 @@
+[
+  {
+    "Category": "Livret 10 billets",
+    "Product": "Livret 10 billets AD",
+    "column": "",
+    "row": "",
+    "price": 100
+  },
+  {
+    "Category": "Passe Illimit",
+    "Product": "Passe commercial",
+    "column": "",
+    "row": "",
+    "price": ""
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet vélo AD",
+    "column": 1,
+    "row": "",
+    "price": 8.7
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet vélo JR",
+    "column": 1,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet Vélo BB",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet vélo courtoisie",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet groupe vélo AD",
+    "column": 1,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Billet groupe vélo JR",
+    "column": 1,
+    "row": "",
+    "price": 5.22
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Trampoline 4 min",
+    "column": 4,
+    "row": 1,
+    "price": 6.09
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Trampoline 8 min",
+    "column": 4,
+    "row": 2,
+    "price": 10.44
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Grands parcours JR",
+    "column": 1,
+    "row": "",
+    "price": 26.96
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Grand parcours AD",
+    "column": 1,
+    "row": "",
+    "price": 32.18
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Parcours Familial ENFANT",
+    "column": 1,
+    "row": "",
+    "price": 20.88
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Parcours familial JR",
+    "column": 1,
+    "row": "",
+    "price": 20.88
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Parcours familial AD",
+    "column": 1,
+    "row": "",
+    "price": 20.88
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "10-19 pers ENFANT",
+    "column": 2,
+    "row": "",
+    "price": 18.27
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "10-19 pers JR",
+    "column": 2,
+    "row": "",
+    "price": 23.49
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "10-19 pers AD",
+    "column": 2,
+    "row": "",
+    "price": 26.96
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "20 pers et + ENFANT",
+    "column": 2,
+    "row": "",
+    "price": 16.52
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "20 pers et + JR",
+    "column": 2,
+    "row": "",
+    "price": 21.74
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "20 pers et + AD",
+    "column": 2,
+    "row": "",
+    "price": 25.22
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Groupes école",
+    "column": 3,
+    "row": "",
+    "price": 16.52
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Courtoisie Acrobranche",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Courtoisie trampoline",
+    "column": 4,
+    "row": 3,
+    "price": 0
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - ski 1/2 jour AD",
+    "column": 1,
+    "row": "",
+    "price": 24.35
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - ski 1/2 jour JR",
+    "column": 1,
+    "row": "",
+    "price": 19.13
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - ski jour AD",
+    "column": 1,
+    "row": "",
+    "price": 29.57
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - ski jour JR",
+    "column": 1,
+    "row": "",
+    "price": 24.35
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - ski BB",
+    "column": 1,
+    "row": "",
+    "price": 15.66
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - Snow 1/2 jour",
+    "column": 1,
+    "row": "",
+    "price": 27.83
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Équipements - snow journée",
+    "column": 1,
+    "row": "",
+    "price": 33.05
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Snowscoot 1/2 journée",
+    "column": 4,
+    "row": "",
+    "price": 34.79
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Snowscoot journée",
+    "column": 4,
+    "row": "",
+    "price": 47.84
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Ski - 1/2 journée AD",
+    "column": 2,
+    "row": "",
+    "price": 17.39
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Ski - 1/2 journée JR",
+    "column": 2,
+    "row": "",
+    "price": 13.91
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Ski - journée AD",
+    "column": 2,
+    "row": "",
+    "price": 20.88
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Ski - journée JR",
+    "column": 2,
+    "row": "",
+    "price": 17.39
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Ski - BB",
+    "column": 2,
+    "row": "",
+    "price": 10.44
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Snowboard 1/2 journée",
+    "column": 2,
+    "row": "",
+    "price": 17.39
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Snowboard journée",
+    "column": 2,
+    "row": "",
+    "price": 22.61
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bottes ski AD et JR 1/2 journée",
+    "column": 3,
+    "row": "",
+    "price": 12.18
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bottes ski AD et JR journée",
+    "column": 3,
+    "row": "",
+    "price": 13.91
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bottes ski - BB",
+    "column": 3,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bottes Snow 1/2 journée",
+    "column": 3,
+    "row": "",
+    "price": 12.18
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bottes snow journée",
+    "column": 3,
+    "row": "",
+    "price": 13.91
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bâtons 1/2 journée",
+    "column": 4,
+    "row": "",
+    "price": 8.7
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Bâtons journée",
+    "column": 4,
+    "row": "",
+    "price": 10.44
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Casques 1/2 journée",
+    "column": 4,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Casque journée",
+    "column": 4,
+    "row": "",
+    "price": 8.7
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Casque - BB",
+    "column": 4,
+    "row": "",
+    "price": 5.22
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+ski AD",
+    "column": 1,
+    "row": "",
+    "price": 60.89
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+ski SR",
+    "column": 1,
+    "row": "",
+    "price": 57.4
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+ski JR",
+    "column": 1,
+    "row": "",
+    "price": 52.18
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+ski BB",
+    "column": 1,
+    "row": "",
+    "price": 20.88
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+snow AD",
+    "column": 1,
+    "row": "",
+    "price": 62.62
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+snow SR",
+    "column": 1,
+    "row": "",
+    "price": 59.14
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Jour+snow JR",
+    "column": 1,
+    "row": "",
+    "price": 59.14
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Tapis+ski AD et SR",
+    "column": 4,
+    "row": "",
+    "price": 31.31
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Tapis+ski JR",
+    "column": 4,
+    "row": "",
+    "price": 26.1
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Tapis+snow",
+    "column": 4,
+    "row": "",
+    "price": 33.05
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+ski AD",
+    "column": 2,
+    "row": "",
+    "price": 52.18
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+ski SR",
+    "column": 2,
+    "row": "",
+    "price": 48.7
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+ski JR",
+    "column": 2,
+    "row": "",
+    "price": 43.49
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+snow AD",
+    "column": 2,
+    "row": "",
+    "price": 53.92
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+snow SR",
+    "column": 2,
+    "row": "",
+    "price": 50.45
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "4hrs+snow JR",
+    "column": 2,
+    "row": "",
+    "price": 50.45
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+ski AD",
+    "column": 3,
+    "row": "",
+    "price": 52.18
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+ski SR",
+    "column": 3,
+    "row": "",
+    "price": 48.7
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+ski JR",
+    "column": 3,
+    "row": "",
+    "price": 43.49
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+snow AD",
+    "column": 3,
+    "row": "",
+    "price": 53.92
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+snow SR",
+    "column": 3,
+    "row": "",
+    "price": 50.45
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Soir+snow JR",
+    "column": 3,
+    "row": "",
+    "price": 50.45
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Jour Ad",
+    "column": 1,
+    "row": 1,
+    "price": 33.05
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "4hrs AD",
+    "column": 1,
+    "row": 2,
+    "price": 29.57
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "3hrs AD",
+    "column": 1,
+    "row": 3,
+    "price": 24.35
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "2hrs AD",
+    "column": 1,
+    "row": 4,
+    "price": 20.88
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "1hr Ad",
+    "column": 4,
+    "row": 5,
+    "price": 13.05
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet tapis",
+    "column": 4,
+    "row": 1,
+    "price": 8.7
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet Bambin",
+    "column": 4,
+    "row": 2,
+    "price": 5.22
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Jour SR",
+    "column": 2,
+    "row": 1,
+    "price": 29.57
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "4hrs SR",
+    "column": 2,
+    "row": 2,
+    "price": 26.1
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "3hrs SR",
+    "column": 2,
+    "row": 3,
+    "price": 22.61
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "2hrs SR",
+    "column": 2,
+    "row": 4,
+    "price": 19.13
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "1hr SR",
+    "column": 2,
+    "row": 5,
+    "price": 13.05
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Soir SR",
+    "column": 2,
+    "row": 6,
+    "price": 26.1
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Jour JR",
+    "column": 3,
+    "row": 1,
+    "price": 29.57
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "4hrs JR",
+    "column": 3,
+    "row": 2,
+    "price": 26.1
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "3hrs JR",
+    "column": 3,
+    "row": 3,
+    "price": 22.61
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "1hr JR",
+    "column": 3,
+    "row": 5,
+    "price": 13.05
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "2hrs JR",
+    "column": 3,
+    "row": 4,
+    "price": 19.13
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Soir JR",
+    "column": 3,
+    "row": 6,
+    "price": 26.1
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Spécial Senior",
+    "column": 2,
+    "row": 7,
+    "price": 13.91
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Lundi 2 pour 1",
+    "column": 2,
+    "row": 9,
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet mercredi des Dames",
+    "column": 2,
+    "row": 8,
+    "price": 13.91
+  },
+  {
+    "Category": "Daily Ticket",
+    "Product": "Flexible",
+    "column": "",
+    "row": "",
+    "price": 19.13
+  },
+  {
+    "Category": "Divers",
+    "Product": "Casier Divers",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Daily Ticket",
+    "Product": "",
+    "column": "",
+    "row": "",
+    "price": 652.31
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers passe saison",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers location",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers école",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers boutique",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet employé",
+    "column": 1,
+    "row": 7,
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet Iniski",
+    "column": 4,
+    "row": 3,
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet Inisurf",
+    "column": 4,
+    "row": 4,
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Massif du Sud",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Valinouët",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Belle-Neige",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Le Chantecler",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Mont Habitant",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Vallée Bleue",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Val Saint-Côme",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Mont Garceau",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Vallée du Parc",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Mont Cascade",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Val d'Irène",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Sutton",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Mont Saint-Bruno",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "14 stations",
+    "Product": "Mont Vidéo",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Courtoisie",
+    "column": 1,
+    "row": 9,
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "AD jour PV",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "AD 4 heures PV",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "Bambin PV",
+    "column": 4,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "SR jour PV",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "SR 4 heures PV",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "JR jour PV",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet Pré-Vendu",
+    "Product": "JR 4 heures PV",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Divers",
+    "Product": "Ajustements fixations",
+    "column": 1,
+    "row": "",
+    "price": 5
+  },
+  {
+    "Category": "Divers",
+    "Product": "Bâtons - Paniers (rondelles)",
+    "column": 1,
+    "row": "",
+    "price": 10
+  },
+  {
+    "Category": "Divers",
+    "Product": "Bottes - rempl boucle",
+    "column": 1,
+    "row": "",
+    "price": 10
+  },
+  {
+    "Category": "Divers",
+    "Product": "Installation bit en laiton",
+    "column": 1,
+    "row": "",
+    "price": 5
+  },
+  {
+    "Category": "Divers",
+    "Product": "Installation de fixations",
+    "column": 1,
+    "row": "",
+    "price": 26
+  },
+  {
+    "Category": "Divers",
+    "Product": "Cirage seulement",
+    "column": 1,
+    "row": "",
+    "price": 25
+  },
+  {
+    "Category": "Divers",
+    "Product": "Aiguisage et cirage",
+    "column": 1,
+    "row": "",
+    "price": 32
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Ad 40% jour",
+    "column": 1,
+    "row": "",
+    "price": 19.83
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Ad 35% jour",
+    "column": 1,
+    "row": "",
+    "price": 21.49
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout AD 30% jour",
+    "column": 1,
+    "row": "",
+    "price": 23.13
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout AD 40% soir",
+    "column": 1,
+    "row": "",
+    "price": 17.74
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout AD 35% soir",
+    "column": 1,
+    "row": "",
+    "price": 19.22
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Ad 30% soir",
+    "column": 1,
+    "row": "",
+    "price": 20.7
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout SR et JR 40% jour",
+    "column": 2,
+    "row": "",
+    "price": 17.74
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout SR et JR 35% jour",
+    "column": 2,
+    "row": "",
+    "price": 19.22
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Parout SR et JR 30% jour",
+    "column": 2,
+    "row": "",
+    "price": 20.7
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout SR et JR 40% soir",
+    "column": 2,
+    "row": "",
+    "price": 15.66
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout SR et JR 35% soir",
+    "column": 2,
+    "row": "",
+    "price": 16.96
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout SR et JR 30% soir",
+    "column": 2,
+    "row": "",
+    "price": 18.27
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Bambin 40%",
+    "column": 3,
+    "row": "",
+    "price": 3.13
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Bambin 35%",
+    "column": 3,
+    "row": "",
+    "price": 3.39
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passe Partout Bambin 30%",
+    "column": 3,
+    "row": "",
+    "price": 3.66
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Expérience Maneige",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Exp Maneige AD 25% jour",
+    "column": 1,
+    "row": "",
+    "price": 24.79
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Exp Maneige Jr 25% jour",
+    "column": 1,
+    "row": "",
+    "price": 22.18
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Exp Maneige Ad 25% soir",
+    "column": 1,
+    "row": "",
+    "price": 22.18
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Les Passe-Provinciale",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "La Mobilski",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Inter-Échange AD 25%",
+    "column": 3,
+    "row": "",
+    "price": 24.79
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Inter-Échange SR 25%",
+    "column": 3,
+    "row": "",
+    "price": 22.18
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Inter-Échange JR 25%",
+    "column": 3,
+    "row": "",
+    "price": 22.18
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Inter-Échange BB 25%",
+    "column": 3,
+    "row": "",
+    "price": 3.91
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Inter-Échange 100%",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Rabais ASSQ et CCS",
+    "Product": "Passeport des neiges",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet moniteur",
+    "column": 1,
+    "row": 8,
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Groupes ski - École",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Groupes ski - Adulte",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CHAOS Tuque",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CHAOS Bandana",
+    "column": 1,
+    "row": "",
+    "price": 11.31
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CHAOS Cache-cou",
+    "column": 1,
+    "row": "",
+    "price": 8.7
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Gant Homme",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Gant Femme",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Gant  Enfant",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Mitaine Homme",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Mitaine Femme",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Mitaine Enfant",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KOMBI Gant Polypropylène",
+    "column": 1,
+    "row": "",
+    "price": 5
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Ski Strap",
+    "column": 2,
+    "row": "",
+    "price": 2.83
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Leash",
+    "column": 2,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Traction Dots",
+    "column": 2,
+    "row": "",
+    "price": 10
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Edgie Wedgie",
+    "column": 2,
+    "row": "",
+    "price": 20
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Ckeek Chum",
+    "column": 2,
+    "row": "",
+    "price": 20
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Laces",
+    "column": 2,
+    "row": "",
+    "price": 6.96
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Boot Carrier",
+    "column": 2,
+    "row": "",
+    "price": 6.09
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RC Ski Harness",
+    "column": 2,
+    "row": "",
+    "price": 35.01
+  },
+  {
+    "Category": "Boutique",
+    "Product": "GIRO Casque",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "GIRO Lunette",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CTR Balaclava",
+    "column": 3,
+    "row": "",
+    "price": 19.13
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CTR Neck Gaiter",
+    "column": 3,
+    "row": "",
+    "price": 14.13
+  },
+  {
+    "Category": "Boutique",
+    "Product": "CTR Multi-Tasker",
+    "column": 3,
+    "row": "",
+    "price": 24.13
+  },
+  {
+    "Category": "Boutique",
+    "Product": "WIGWAM Bas Homme",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "WIGWAM Bas Femme",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "WIGWAM Bas Enfant",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "RYDER Lunettes de soleil",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "SMITH Lunettes de ski",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "SKI KEY",
+    "column": 3,
+    "row": "",
+    "price": 25.01
+  },
+  {
+    "Category": "Boutique",
+    "Product": "LEKI Bâtons",
+    "column": 3,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "ADVIL Comprimés",
+    "column": 4,
+    "row": "",
+    "price": 4.95
+  },
+  {
+    "Category": "Boutique",
+    "Product": "KLEENEX paquet de poche",
+    "column": 4,
+    "row": "",
+    "price": 1.25
+  },
+  {
+    "Category": "Boutique",
+    "Product": "SUN & SNOW Skin protection",
+    "column": 4,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Boutique",
+    "Product": "WARMERS Main",
+    "column": 4,
+    "row": "",
+    "price": 2
+  },
+  {
+    "Category": "Boutique",
+    "Product": "WARMERS Orteil",
+    "column": 4,
+    "row": "",
+    "price": 3.25
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Billet pré-saison",
+    "column": "",
+    "row": "",
+    "price": 17.39
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers Taxes incluses",
+    "column": 2,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Location d'équipement journalier",
+    "Product": "Location 2 pour 1",
+    "column": 1,
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Journée Famille",
+    "column": 4,
+    "row": 5,
+    "price": 106.11
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Journée Famille 0",
+    "column": 4,
+    "row": 6,
+    "price": 0
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Forfait vélo+BBQ",
+    "column": 3,
+    "row": 9,
+    "price": 17.39
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Forfait vélo+Bistro",
+    "column": 3,
+    "row": 10,
+    "price": 21.74
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Groupe Tube",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Auberge Gallant BB",
+    "column": 4,
+    "row": 7,
+    "price": 0
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Auberge Gallant JR",
+    "column": 4,
+    "row": 8,
+    "price": 0
+  },
+  {
+    "Category": "Forfaits journée",
+    "Product": "Auberge Gallant AD",
+    "column": 4,
+    "row": 10,
+    "price": 0
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Boom des neiges",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Divers",
+    "Product": "Divers camp de jour",
+    "column": "",
+    "row": "",
+    "price": 0
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Stationnement",
+    "column": 4,
+    "row": 10,
+    "price": 4.35
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Piétons",
+    "column": 4,
+    "row": 9,
+    "price": 1.74
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "Oiseau matinal",
+    "column": 1,
+    "row": 10,
+    "price": 20.88
+  },
+  {
+    "Category": "Vélo de montagne",
+    "Product": "Bike wash",
+    "column": 2,
+    "row": "",
+    "price": 8.7
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "On fête (Famille)",
+    "column": 4,
+    "row": "",
+    "price": 208.74
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "On fête (Grands)",
+    "column": 4,
+    "row": "",
+    "price": 234.84
+  },
+  {
+    "Category": "Parc Acrobranche",
+    "Product": "BBQ",
+    "column": 4,
+    "row": 10,
+    "price": 21.74
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "dfgh",
+    "column": "",
+    "row": "",
+    "price": 12345
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "Spot-2",
+    "column": "",
+    "row": "",
+    "price": 20
+  },
+  {
+    "Category": "Billet de jour",
+    "Product": "3 Days",
+    "column": 4,
+    "row": 5,
+    "price": 0
+  },
+  {
+    "Category": "Daily Ticket",
+    "Product": "test raph",
+    "column": "",
+    "row": "",
+    "price": 500
+  }
+]

@@ -1,0 +1,6 @@
+<div class="uk-width-1-1 uk-grid-match uk-grid-small uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-3@l uk-child-width-1-4@xl" uk-grid>
+    
+    <div *ngFor="let product of products">
+        <pos-product-card [product]="product" (onProduct)="selectProduct($event)"></pos-product-card>
+    </div>
+</div>

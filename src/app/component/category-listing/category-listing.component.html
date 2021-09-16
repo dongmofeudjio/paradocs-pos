@@ -1,0 +1,14 @@
+<div class="uk-width-1-1">
+    <ul class="uk-list" *ngIf="listing">
+        <li *ngFor="let category of listing">
+            <button 
+                [class.uk-button-default]="!category.selected" 
+                [class.uk-button-primary]="category.selected"
+                class="uk-button uk-width-1-1"
+                (click)="select(category)"
+                >
+            {{category.Category}}
+            </button>
+        </li>
+    </ul>
+</div>

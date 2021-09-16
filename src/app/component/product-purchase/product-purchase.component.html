@@ -1,0 +1,26 @@
+<div class="uk-width-1-1 uk-grid-small"  [formGroup]="formGroup" *ngIf="product"  uk-grid>
+
+    <div class="uk-form-controls uk-width-1-1@s uk-width-1-5@m uk-width-1-6@l uk-width-1-6@xl">
+        <input class="uk-input uk-form-small"  [name]="name" [formControlName]="name" type="number" [value]="product.quantity" (ngModelChange)="quantityChange($event)" >
+    </div>
+
+    <div class="uk-width-expand">
+        {{product.Product}}
+    </div>
+
+    <div class=" uk-text-right uk-width-1-1@s uk-width-1-5@m uk-width-1-6@l uk-width-1-6@xl">
+        {{product.totalPrice}}
+    </div>
+
+    <div class="uk-text-right uk-width-1-1@s uk-width-1-5@m uk-width-1-6@l uk-width-1-6@xl">
+        <span (click)="close()" class="uk-text-danger cursor-pointer" uk-icon="close"></span>
+    </div>
+
+    <div 
+            class="uk-width-1-1 uk-text-danger" 
+            *ngIf="formControl.invalid && (formControl.dirty || formControl.touched)" 
+        >
+        la quantité est requise et ne peut pas être négative
+    </div>
+
+</div>

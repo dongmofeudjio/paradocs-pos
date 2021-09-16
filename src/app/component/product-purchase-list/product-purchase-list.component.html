@@ -1,0 +1,15 @@
+<div class="uk-width-1-1">
+    <div class="uk-width-1-1 uk-margin-top" *ngFor="let product of products" >
+        <pos-product-purchase [product]="product" (destroy)="remove($event)" (totalPrice)="onTotalPrice($event)"  [formGroup]="formGroup"></pos-product-purchase>
+    </div>
+    <div class="uk-margin-top uk-width-1-1 " *ngIf="products.length > 0" uk-grid>
+        <div>
+            <button (click)="removeAll()" class="uk-button uk-button-default">
+                <span  uk-icon="trash"></span>
+            </button>
+        </div>
+        <div class="uk-text-bold uk-text-lead uk-text-right uk-width-expand" >
+            {{totalPrice | currency}}
+        </div>
+    </div>
+</div>

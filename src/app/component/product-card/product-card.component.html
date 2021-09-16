@@ -1,0 +1,7 @@
+<div class="uk-height-1-1 uk-card uk-card-default uk-card-small uk-card-body cursor-pointer" *ngIf="product" (click)="selectProduct()">
+
+    <p class="uk-text-medium uk-text-bold">{{product.Product}}</p>
+
+    <div class="uk-text-right uk-width-1-1">{{product.price | currency}}</div>
+
+</div>
